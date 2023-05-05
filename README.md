@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Harold.mjs (a pun for Harold Mejias)
+
+I'm a developer specializing in Javascript, i learn something every day while trying to build things with code 🚀
 
 <!--
 **haroldmjs/haroldmjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
