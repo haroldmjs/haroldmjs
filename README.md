@@ -2,7 +2,7 @@
 
 I'm a developer specializing in Javascript and aspiring full-stack , i learn something every day while trying to build things with code 🚀 I'm currently focused on learning React and NextJS while doing the #100DaysOfCode challenge 📝
 
-If you'd like to get in touch, feel free to visit my [twitter](https://twitter.com/harold_mjs) or [my instagram](https://www.instagram.com/harold.mjs/)
+If you'd like to get in touch, feel free to visit my [twitter](https://twitter.com/harold_mjs) or [instagram](https://www.instagram.com/harold.mjs/)
 
 <!--
 **haroldmjs/haroldmjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
