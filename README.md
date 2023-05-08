@@ -1,4 +1,4 @@
-### Hi there, my name is Harold.mjs (a pun for Harold Mejias)
+### Hi there, this is Harold.mjs (a pun for Harold Mejias)
 
 I'm a developer specializing in Javascript and aspiring full-stack , i learn something every day while trying to build things with code 🚀 I'm currently focused on learning React and NextJS 
 
