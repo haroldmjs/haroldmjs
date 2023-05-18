@@ -1,4 +1,4 @@
-<img src="https://haroldmjs.com/imgs/haroldmjs--header.jpg" width="100%"> 
+<img src="https://haroldmjs.com/imgs/haroldmjs--header.png" width="100%"> 
 
 ## Hi there, this is Harold.mjs (a pun for Harold Mejias) ##
 
