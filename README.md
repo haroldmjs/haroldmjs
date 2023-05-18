@@ -2,18 +2,13 @@
 
 I'm a developer specializing in Javascript and aspiring full-stack , i learn something every day while trying to build things with code 🚀 I'm currently focused on learning React and NextJS while doing the #100DaysOfCode challenge 📝
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to visit my [twitter](https://twitter.com/harold_mjs) or [instagram](https://www.instagram.com/harold.mjs/)</b></em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to visit my [twitter](https://twitter.com/harold_mjs) or [instagram](https://www.instagram.com/harold.mjs/)</b></em>
 
 
 
 ## My current skills ##
-### Languages ###
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-
-### Database ###
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-
-### Frameworks ###
 ![ReactJS](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![TaildWind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
