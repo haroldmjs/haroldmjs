@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-  ## Hi there, this is Harold.mjs (a pun for Harold Mejias) ##
+  ## Hi there, Harold.mjs is a pun for Harold Mejias ##
 
   I'm a Javascript developer with a passion for full-stack development, I strive to learn something new every day while coding and building amazing things 🚀 Currently, I'm focused on     mastering React and NextJS as part of my #100DaysOfCode challenge. 📝
 
