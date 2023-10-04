@@ -1,4 +1,4 @@
-<img src="https://haroldmjs.com/imgs/haroldmjs-header.png" width="100%"> 
+[comment]: <> (<img src="https://haroldmjs.com/imgs/haroldmjs-header.png" width="100%">)
 
 <div align='center'>
   
