@@ -5,6 +5,7 @@
   ## Hi there, Harold.mjs is a pun for Harold Mejias ##
 
   I'm a Javascript developer with a passion for full-stack development, I strive to learn something new every day while coding and building amazing things 🚀
+  
   <em><b>I enjoy connecting with diverse individuals, so don't hesitate to drop by and <b>say hello on my [twitter](https://twitter.com/harold_mjs) or [instagram](https://www.instagram.com/harold.mjs/)</b></em>
   ## Skills ##
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
