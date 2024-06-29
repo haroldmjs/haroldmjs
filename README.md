@@ -7,7 +7,7 @@
   I'm a Javascript developer with a passion for full-stack development, I strive to learn something new every day while coding and building amazing things 🚀
   
   <em><b>I enjoy connecting with diverse individuals, so don't hesitate to drop by and <b>say hello on my [twitter](https://twitter.com/harold_mjs) or [instagram](https://www.instagram.com/harold.mjs/)</b></em>
-[comment]:  ## Skills ##
+## Skills ##
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
